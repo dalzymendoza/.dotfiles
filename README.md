@@ -4,3 +4,4 @@
 2. Install zsh shell.
 3. brew install fzf
 4. brew install zoxide
+5. Copy .config/kitty config to ~/.config/kitty.
